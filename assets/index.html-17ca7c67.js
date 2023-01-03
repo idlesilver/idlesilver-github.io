@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b30c853e","path":"/tag/lc3/","title":"Lc3 Tag","lang":"en-US","frontmatter":{"title":"Lc3 Tag","blog":{"type":"category","name":"Lc3","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

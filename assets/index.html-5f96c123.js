@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-28a80d22","path":"/tag/joke/","title":"Joke Tag","lang":"en-US","frontmatter":{"title":"Joke Tag","blog":{"type":"category","name":"Joke","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

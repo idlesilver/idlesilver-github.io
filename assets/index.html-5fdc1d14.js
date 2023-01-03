@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b2ff45e4","path":"/tag/zsh/","title":"Zsh Tag","lang":"en-US","frontmatter":{"title":"Zsh Tag","blog":{"type":"category","name":"Zsh","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

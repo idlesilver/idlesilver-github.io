@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1e976882","path":"/tag/manim/","title":"Manim Tag","lang":"en-US","frontmatter":{"title":"Manim Tag","blog":{"type":"category","name":"Manim","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
