@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c8714eb0","path":"/tag/modeling/","title":"Modeling Tag","lang":"en-US","frontmatter":{"title":"Modeling Tag","blog":{"type":"category","name":"Modeling","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
