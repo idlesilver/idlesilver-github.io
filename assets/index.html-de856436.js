@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-200c1937","path":"/tag/vscode/","title":"Vscode Tag","lang":"en-US","frontmatter":{"title":"Vscode Tag","blog":{"type":"category","name":"Vscode","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
