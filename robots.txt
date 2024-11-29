@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://www.gavin-get-up.com/sitemap.xml
+Sitemap: https://blog.chenhaozhe.top/sitemap.xml
